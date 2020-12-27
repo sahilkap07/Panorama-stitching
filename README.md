@@ -7,4 +7,4 @@ The aim of the project is to understand the underlying concept of finding homogr
 There should be atleast 15-20% overlap between the images to be stitched. Panorama image stitching is performed from scratch using SIFT match-points to stich multiple images. RANSAC is used to filter out the outliers and homography matrices calculated for the purpose of finding transformations from one image to other. OpenCV or any other image processing libraries have not been used. 
 
 Sample 1
-![](data/panorama)
+![](data/panorama.jpg)
